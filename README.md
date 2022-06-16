@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Philarpy
+- 👋 Hi, I’m @philarpy
 - 👀 I’m interested in SOFTWARE ENGINEERING
 - 🌱 I’m currently learning SOFTWARE ENGINEERING at ALX 
 - 💞️ I’m looking to collaborate on new projects in the EDUCATION category
