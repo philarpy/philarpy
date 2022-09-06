@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @philarpy
-- 👀 I’m interested in SOFTWARE ENGINEERING
-- 🌱 I’m currently learning SOFTWARE ENGINEERING at ALX 
-- 💞️ I’m looking to collaborate on new projects in the EDUCATION category
+- 💞️ I’m a lover of Codes, Texts and Graphics
+- 🌱 I’m currently learning Software Engineering at ALX 
+- 👀 I’m looking for collaborations on new projects in the Education Industry
 - 📫 How to reach me? Visit https://www.philarpy.me
-- 👋 Call? +233 20 228 4040 (WhatsApp)
+- 👋 Call? +233 20 228 4040 (I'm also available on WhatsApp)
 
 <!---
 Philarpy/Philarpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
