@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philarpy
-- 💞️ I’m a lover of Codes, Texts and Graphics
+- 💞️ I’m a lover of Texts, Graphics, Codes and everything in between
 - 🌱 I’m currently learning Software Engineering at ALX 
 - 👀 I’m looking for collaborations on new projects in the Education Industry
 - 📫 How to reach me? Visit https://www.philarpy.me
