@@ -4,7 +4,7 @@
 - 👀 I’m looking for collaborations on new projects in the Education Industry
 - 📫 How to reach me? Visit https://www.philarpy.me
 - 👋 Call? +233 20 228 4040 (I'm also available on WhatsApp)
--  #  I love to #DoHardThings
+- ✨ I love to #dohardthings
 
 <!---
 Philarpy/Philarpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
