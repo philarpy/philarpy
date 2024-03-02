@@ -2,7 +2,7 @@
 - 💞️ I’m a lover of Texts, Graphics, and Codes
 - 🌱 I’m currently learning Software Engineering at ALX 
 - 👀 I’m looking for collaborations on new projects in the Education Industry
-- 📫 How to reach me? Visit https://www.authicles.com/philarpy
+- 📫 How to reach me? Visit https://icles.link/philarpy
 - 👋 Call? +233 20 228 4040 (I'm also available on WhatsApp)
 - ✨ I love to #dohardthings
 
